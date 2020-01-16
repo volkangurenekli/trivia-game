@@ -1,0 +1,4 @@
+export const GET_QUESTIONS = "GET_QUESTIONS";
+export const CHANGE_QUESTION = "CHANGE_QUESTION";
+export const SHOW_SCORE = "SHOW_SCORE";
+export const BOOST_JOKER = "BOOST_JOKER";
